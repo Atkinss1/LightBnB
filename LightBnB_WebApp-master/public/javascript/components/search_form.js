@@ -4,12 +4,12 @@ $(() => {
   <form action="/properties" method="get" id="search-property-form" class="search-property-form">
       <div class="search-property-form__field-wrapper">
         <label for="search-property-form__city">City</label>
-        <input type="text" name="city" placeholder="City" id="search-property-form__city">
+        <input type="text" name="city" placeholder="City" id="search-property-form__city" required>
       </div>
 
       <div class="search-property-form__field-wrapper">
         <label for="search-property-form__minimum-price-per-night">Minimum Cost</label>
-        <input type="number" name="minimum_price_per_night" placeholder="Minimum Cost" id="search-property-form__minimum-price-per-night">
+        <input type="number" name="minimum_price_per_night" placeholder="Minimum Cost" id="search-property-form__minimum-price-per-night" required>
         <label for="search-property-form__maximum-price-per-night">Maximum Cost</label>
         <input type="number" name="maximum_price_per_night" placeholder="Maximum Cost" id="search-property-form__maximum-price-per-night">
       </div>
