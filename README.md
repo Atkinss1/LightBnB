@@ -14,7 +14,7 @@ This project aims to replicate the functionality of Airbnb with a simplified arc
 
 ## Features
 
-- Multi-page architecture for a comprehensive user experience.
+- Single-page architecture for a comprehensive user experience.
 - Server-side rendering using JavaScript.
 - Integration of SQL queries to fetch and display relevant information.
 - Simplified Airbnb-like design for ease of use.
