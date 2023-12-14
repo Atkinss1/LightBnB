@@ -23,13 +23,17 @@ $(() => {
       userLinks = `
       <nav id="page-header__user-links" class="page-header__user-links">
         <ul>
-          <li class="home">🏠</li>
-          <li class="search_button">Search</li>
-          <li>${user.name}</li>
-          <li class="create_listing_button">Create Listing</li>
-          <li class="my_listing_button">My Listings</li>
-          <li class="my_reservations_button">My Reservations</li>
-          <li class="logout_button">Log Out</li>
+          <div class="user_links">
+            <li class="home">🏠</li>
+            <li class="search_button">Search</li>
+            <li>${user.name}</li>
+            <li class="create_listing_button">Create Listing</li>
+            <li class="my_listing_button">My Listings</li>
+            <li class="my_reservations_button">My Reservations</li>
+          </div>
+          <div class="logout">
+            <li class="logout_button">Log Out</li>
+          </div>
         </ul>
       </nav>
       `
