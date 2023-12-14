@@ -7,8 +7,6 @@ This repository contains a straightforward multi-page Airbnb clone implemented u
 - [Features](#features)
 - [Setup](#setup)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -26,5 +24,15 @@ This project aims to replicate the functionality of Airbnb with a simplified arc
 Follow these steps to set up the project locally:
 
 1. Clone the repository to your local machine.
-   ```bash
-   git clone https://github.com/your-username/airbnb-clone.git
+   
+   ```
+   git clone https://github.com/Atkinss1/LightBnB.git
+2. Install the project dependencies using npm.
+
+    ```
+    npm install
+# Usage
+
+* To start the application, run the following command:
+```
+npm start
