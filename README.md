@@ -1,6 +1,6 @@
 # LightBnB
 
-This repository contains a straightforward multi-page Airbnb clone implemented using server-side JavaScript. The application fetches and displays information from a database through SQL queries, providing a dynamic and responsive user experience.
+This repository contains a straightforward single-page Airbnb clone implemented using server-side JavaScript. The application fetches and displays information from a database through SQL queries, providing a dynamic and responsive user experience.
 
 ## Table of Contents
 - [Introduction](#introduction)
