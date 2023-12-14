@@ -36,6 +36,11 @@ Follow these steps to set up the project locally:
 
     ```
     npm install
+3. Update your database by running the following commangs in your psql
+   ```
+   \i migrations/01_schema.sql
+   \i seeds/01_seeds.sql
+   \i seeds/02_seeds.sql
 # Usage
 
 * The lightBnB directory manages queries, seeds, and DDL.
