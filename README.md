@@ -19,6 +19,11 @@ This project aims to replicate the functionality of Airbnb with a simplified arc
 - Integration of SQL queries to fetch and display relevant information.
 - Simplified Airbnb-like design for ease of use.
 
+## Screenshot
+
+![](https://github.com/Atkinss1/LightBnB/blob/main/images/Screenshot%202023-12-13%20193353.png?raw=true)
+![](https://github.com/Atkinss1/LightBnB/blob/main/images/Screenshot%202023-12-13%20193419.png?raw=true)
+
 ## Setup
 
 Follow these steps to set up the project locally:
