@@ -4,6 +4,40 @@ body {
   flex-direction: column;
 }
 
+main {
+  margin-top: 5em;
+}
+
+.page-header__user-links {
+  display: flex;
+  flex-direction: row;
+  background: rgba(255, 255, 255, 0.801);
+  justify-content: space-between;
+  width: 100%;
+  top: 0;
+  position: fixed;
+  z-index: 100;
+  height: 60px;
+}
+
+.user_links {
+  display: flex;
+  
+}
+
+.logout_button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  border: 2px solid black;
+  border-radius: 50px;
+  height: 20px;
+  width: 80px;
+  
+  ;
+}
+
 .property-listings {
   width: 100%;
   display: flex;
