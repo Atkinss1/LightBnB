@@ -23,11 +23,7 @@ This project aims to replicate the functionality of Airbnb with a simplified arc
 
 Follow these steps to set up the project locally:
 
-1. Clone the repository to your local machine.
-   
-   ```
-   git clone https://github.com/Atkinss1/LightBnB.git
-2. Install the project dependencies using npm.
+1. Install the project dependencies using npm.
 
     ```
     npm install

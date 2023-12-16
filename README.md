@@ -1,6 +1,6 @@
 # LightBnB
 
-This repository contains a straightforward multi-page Airbnb clone implemented using server-side JavaScript. The application fetches and displays information from a database through SQL queries, providing a dynamic and responsive user experience.
+This repository contains a straightforward single-page Airbnb clone implemented using server-side JavaScript. The application fetches and displays information from a database through SQL queries, providing a dynamic and responsive user experience.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -36,6 +36,11 @@ Follow these steps to set up the project locally:
 
     ```
     npm install
+3. Update your database by running the following commangs in your psql
+   ```
+   \i migrations/01_schema.sql
+   \i seeds/01_seeds.sql
+   \i seeds/02_seeds.sql
 # Usage
 
 * The lightBnB directory manages queries, seeds, and DDL.
