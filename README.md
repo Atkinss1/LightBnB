@@ -24,6 +24,9 @@ This project aims to replicate the functionality of Airbnb with a simplified arc
 ![](https://github.com/Atkinss1/LightBnB/blob/main/images/Screenshot%202023-12-13%20193353.png?raw=true)
 ![](https://github.com/Atkinss1/LightBnB/blob/main/images/Screenshot%202023-12-13%20193419.png?raw=true)
 
+## Entity Relationship Diagram
+![](https://github.com/Atkinss1/LightBnB/blob/main/images/ERD.png?raw=true)
+
 ## Setup
 
 Follow these steps to set up the project locally:
